@@ -24,12 +24,12 @@ genai.configure(api_key=API_KEY)
 model_name = "models/embedding-001"
 model = genai.GenerativeModel('models/gemini-2.0-flash-exp')
 
-# Đọc data Explore
+
 df = pd.read_parquet('./qa_with_embeddings_chatbotai.parquet')
-# ...existing code...
+
 import ast
 df['embedding'] = df['embedding'].apply(lambda x: ast.literal_eval(x) if isinstance(x, str) else x)
-# ...existing code...
+
 app = FastAPI()
 
 origins = [
