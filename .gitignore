@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+process_healthCare.ipynb
+query_healthCare.ipynb

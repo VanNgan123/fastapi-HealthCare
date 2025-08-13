@@ -1,0 +1,577 @@
+[
+  {
+    "question": "Polyp đại tràng là gì?",
+    "answer": "Polyp đại tràng là những khối u nhỏ phát triển trên niêm mạc đại tràng, thường lành tính nhưng có thể tiến triển thành ung thư."
+  },
+  {
+    "question": "Triệu chứng của viêm loét đại tràng?",
+    "answer": "Triệu chứng thường gặp gồm đau bụng, tiêu chảy, có máu trong phân, mệt mỏi và giảm cân."
+  },
+  {
+    "question": "Viêm thực quản có nguy hiểm không?",
+    "answer": "Viêm thực quản có thể gây đau, khó nuốt và nếu không điều trị có thể dẫn đến biến chứng như loét hoặc hẹp thực quản."
+  },
+  {
+    "question": "Cách phòng ngừa polyp đại tràng?",
+    "answer": "Ăn nhiều rau xanh, hạn chế thịt đỏ, tập thể dục đều đặn và kiểm tra sức khỏe định kỳ giúp phòng ngừa polyp đại tràng."
+  },
+  {
+    "question": "Nhuộm‑nâng‑polyp (dyed‑lifted‑polyps) là gì?",
+    "answer": "Đây là kết quả của kỹ thuật nhuộm niêm mạc và tiêm nâng dưới lớp dưới biểu mô (submucosal injection) để nâng polyp lên trước khi cắt bỏ bằng nội soi, giúp phân biệt rõ hơn mô polyp và đảm bảo cắt sạch, giảm nguy cơ bỏ sót khối u."
+  },
+  {
+    "question": "Mục đích của nhuộm‑cắt‑lề‑mép (dyed‑resection‑margins) là gì?",
+    "answer": "Nhuộm lề cắt giúp tô đậm các rìa mô sau khi cắt polyp để bác sĩ có thể xác định rõ biên độ cắt sạch (clean margin), từ đó đánh giá khả năng loại bỏ hết tổn thương."
+  },
+  {
+    "question": "Viêm thực quản (esophagitis) là gì?",
+    "answer": "Viêm thực quản là tình trạng viêm ở lớp niêm mạc thực quản, có thể do trào ngược acid, nhiễm khuẩn, thuốc hoặc dị ứng. Biến chứng có thể gồm loét, hẹp thực quản hoặc Barrett thực quản. :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "question": "Viêm thực quản có triệu chứng gì?",
+    "answer": "Thường gây đau khi nuốt (odynophagia), khó nuốt (dysphagia), đau ngực sau xương ức, có thể kèm buồn nôn và ợ chua."
+  },
+  {
+    "question": "Manh tràng bình thường (normal‑cecum) có ý nghĩa như thế nào trong nội soi?",
+    "answer": "Manh tràng bình thường nghĩa là phần đầu của đại tràng (cecum) không có dấu hiệu viêm nhiễm, polyp hay tổn thương — biểu hiện bình thường, không nghi ngờ bệnh lý."
+  },
+  {
+    "question": "Môn vị bình thường (normal‑pylorus) nghĩa là gì?",
+    "answer": "Môn vị bình thường chỉ phần dưới dạ dày (pylorus) không có loét, viêm hay hẹp — vị trí dẫn thức ăn từ dạ dày xuống tá tràng trong tình trạng ổn định."
+  },
+  {
+    "question": "Đường Z bình thường (normal‑z‑line) là gì?",
+    "answer": "Đường Z là nơi tiếp giáp giữa niêm mạc thực quản và dạ dày (Z‑line). Nếu bình thường, vị trí này đều, không có viêm, hẹp hay Barrett thực quản."
+  },
+  {
+    "question": "Polyp đại tràng (polyps) là gì?",
+    "answer": "Polyp đại tràng là các khối nhỏ hình thành trên niêm mạc đại tràng, thường lành tính nhưng một số loại (như adenoma) có thể trở thành ung thư nếu không phát hiện và loại bỏ kịp thời. Colonoscopy và polypectomy có thể giảm 50% nguy cơ tử vong do ung thư đại tràng. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "question": "Polyp lớn nên được xử lý như thế nào?",
+    "answer": "Polyp lớn (≥20 mm) cần đánh giá kỹ morphology và có thể dùng kỹ thuật chuyên sâu như EMR (Endoscopic Mucosal Resection) — trong đó tiêm nâng + nhuộm giúp cắt bỏ an toàn, hạn chế biến chứng perforation hoặc chảy máu. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "question": "Viêm loét đại tràng (ulcerative‑colitis) là gì?",
+    "answer": "Viêm loét đại tràng là bệnh viêm đường ruột mãn tính đặc trưng bởi viêm và loét niêm mạc đại tràng lan tỏa, thường ảnh hưởng liên tục từ trực tràng lên đến các phần cao hơn. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "question": "Triệu chứng thường gặp của viêm loét đại tràng?",
+    "answer": "Bao gồm tiêu chảy ra máu hoặc mủ, đau quặn bụng, mót rặn (tenesmus), mệt mỏi, sút cân và đôi khi sốt. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "question": "Viêm loét đại tràng có thể gây biến chứng gì?",
+    "answer": "Biến chứng có thể gồm chảy máu nặng, thủng đại tràng, toxic megacolon, tăng nguy cơ ung thư đại tràng, mất nước, thiếu máu, viêm khớp, da và mắt. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "question": "Tại sao dùng nhuộm‑nâng‑polyp trước khi cắt?",
+    "answer": "Kỹ thuật nhuộm‑nâng‑polyp giúp nâng cao polyp bằng tiêm dịch dưới biểu mô và nhuộm với chỉ thị màu để tăng độ tương phản, giúp bác sĩ dễ nhận biết ranh giới tổn thương và kiểm soát cắt chính xác, giảm nguy cơ bỏ sót và thủng ruột."
+  },
+  {
+    "question": "Nhuộm‑cắt‑lề‑mép dùng để làm gì sau khi cắt polyp?",
+    "answer": "Sau khi cắt, nhuộm‑cắt‑lề‑mép (dyed resection margins) làm nổi bật vùng cắt bằng màu nhuộm, giúp bác sĩ xác định xem liệu đã cắt sạch mô bệnh hay chưa, từ đó đánh giá khả năng tái phát."
+  },
+  {
+    "question": "Polyp không nâng (non‑lifting sign) có nghĩa là gì?",
+    "answer": "Non‑lifting sign xuất hiện khi bơm dịch dưới biểu mô nhưng polyp không nâng lên — dấu hiệu của xâm lấn sâu vào mô nền (submucosa), cảnh báo nguy cơ ung thư và thường là chống chỉ định với cắt EMR."
+  },
+  {
+    "question": "Viêm thực quản do thuốc (pill‑induced esophagitis) là gì?",
+    "answer": "Thực quản bị viêm do tác động trực tiếp của viên thuốc không được nuốt đúng cách hoặc không uống đủ nước, dẫn đến kích ứng niêm mạc và có thể gây loét. Phòng tránh bằng cách uống thuốc với ly nước lớn và không nằm ngay sau khi uống.:contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "question": "Viêm thực quản dị ứng (eosinophilic esophagitis) là gì?",
+    "answer": "Đây là tình trạng viêm thực quản do phản ứng dị ứng, gây tích tụ eosin trong niêm mạc, dẫn đến khó nuốt, mắc nghẹn thức ăn. Điều trị gồm tránh thức ăn kích thích, thuốc ức chế miễn dịch, và nong thực quản nếu cần.:contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "question": "Viêm thực quản dẫn đến Barrett có nguy hiểm không?",
+    "answer": "Nếu kéo dài và không điều trị — đặc biệt trong viêm do trào ngược (erosive esophagitis) — có thể tiến triển đến Barrett thực quản và làm tăng nguy cơ ung thư thực quản.:contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "question": "Viêm thực quản do CMV (cytomegalovirus esophagitis) gặp ở ai?",
+    "answer": "Thường gặp ở người hệ miễn dịch yếu như HIV, hậu cấy ghép hoặc dùng thuốc ức chế miễn dịch. Triệu chứng gồm khó nuốt, buồn nôn, nôn ra máu, sốt. Xác định bằng nội soi và sinh thiết.:contentReference[oaicite:3]{index=3}"
+  },{
+    "question": "Nhuộm-nâng-polyp là gì và tại sao phải dùng?",
+    "answer": "Kỹ thuật nhuộm-nâng-polyp sử dụng thuốc nhuộm để làm nổi bật ranh giới và tiêm dịch dưới niêm mạc để nâng khối polyp lên, giúp bác sĩ xác định rõ vùng cần cắt và thực hiện cắt bỏ an toàn, giảm nguy cơ thủng hay bỏ sót."
+  },
+  {
+    "question": "Non-lifting sign là gì?",
+    "answer": "Non-lifting sign xuất hiện khi tiêm dịch dưới polyp nhưng khối không nâng lên — đây là dấu hiệu cho thấy polyp có khả năng xâm lấn sâu vào lớp dưới niêm mạc, khiến cắt EMR khó khăn và có thể dẫn đến biến chứng.:contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "question": "Kỹ thuật nhuộm-cắt-lề-mép là gì và mục đích của nó?",
+    "answer": "Nhuộm-cắt-lề-mép là kỹ thuật nhuộm vùng rìa sau khi cắt polyp để làm rõ vùng biên cắt, giúp xác định xem mô đã được cắt sạch hay chưa và giảm nguy cơ tái phát."
+  },
+  {
+    "question": "Viêm thực quản là gì?",
+    "answer": "Viêm thực quản là tình trạng viêm lớp niêm mạc thực quản, có thể do trào ngược axit (GERD), thuốc, nhiễm trùng hoặc dị ứng, gây ra các tổn thương như loét, hẹp hoặc Barrett thực quản nếu không điều trị kịp thời.:contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "question": "Có thể phòng viêm thực quản bằng cách nào?",
+    "answer": "Có thể phòng viêm thực quản bằng cách tránh thực phẩm kích ứng (acid, caffein, rượu), không ăn trước khi ngủ, nâng đầu khi ngủ, giảm cân, bỏ thuốc lá, và uống thuốc đúng cách.:contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "question": "Pill-induced esophagitis là gì?",
+    "answer": "Đây là tình trạng viêm thực quản gây ra khi viên thuốc lưu lại và hòa tan tại thực quản, gây kích ứng niêm mạc. Có thể dẫn đến đau ngực, đau khi nuốt, loét hoặc chảy máu nếu nghiêm trọng.:contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "question": "Làm sao để phòng tránh pill-induced esophagitis?",
+    "answer": "Uống thuốc với ít nhất một cốc nước đầy, tránh nằm ngay sau khi uống thuốc, uống từng viên một và ưu tiên dạng lỏng hoặc dạng mốc nếu cần.:contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "question": "Eosinophilic esophagitis (EoE) là gì?",
+    "answer": "EoE là dạng viêm thực quản do phản ứng miễn dịch — tích tụ tế bào eosin trong niêm mạc — thường liên quan đến dị ứng hoặc kích ứng thức ăn, gây khó nuốt và cần điều trị bằng PPI hoặc corticosteroids.:contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "question": "Viêm thực quản xói mòn (erosive esophagitis) là gì?",
+    "answer": "Erosive esophagitis là viêm thực quản làm tổn thương niêm mạc dẫn đến loét của thực quản, thường do GERD, có thể gây đau ngực, khó nuốt và tăng nguy cơ hẹp thực quản hoặc ung thư nếu không điều trị.:contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "question": "Erosive esophagitis có thể hồi phục không?",
+    "answer": "Trong các trường hợp nhẹ, thay đổi lối sống có thể giúp hồi phục. Đối với trường hợp nặng, điều trị bằng thuốc ức chế tiết acid (như PPI) hoặc can thiệp ngoại khoa là cần thiết.:contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "question": "Có nguy hiểm không khi thực hiện nhuộm‑nâng‑polyp?",
+    "answer": "Nhuộm‑nâng‑polyp thường được xem là an toàn. Tuy nhiên, nếu thực hiện không đúng, vẫn có nguy cơ như chảy máu hoặc thủng ruột, nhất là nếu polyp không nâng lên được."
+  },
+  {
+    "question": "Non‑lifting sign cảnh báo điều gì?",
+    "answer": "Non‑lifting sign là dấu hiệu cảnh báo polyp không tách khỏi lớp dưới niêm mạc khi tiêm dịch— đây thường là dấu hiệu xâm lấn sâu (có thể liên quan tới ung thư) và là chống chỉ định trong cắt EMR. :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "question": "Kỹ thuật nhuộm‑cắt‑lề‑mép sai có hệ quả gì?",
+    "answer": "Nếu nhuộm‑cắt‑lề‑mép không chính xác, bác sĩ có thể đánh giá sai vùng biên cắt, gây nguy cơ bỏ sót tế bào bệnh và làm tăng khả năng tái phát."
+  },
+  {
+    "question": "Chi phí kỹ thuật nhuộm‑cắt‑lề‑mép ra sao?",
+    "answer": "Chi phí thường dao động tùy vùng và bệnh viện— thường cao hơn kỹ thuật nội soi thông thường do cần nhuộm và kỹ thuật viên có chuyên môn."
+  },
+  {
+    "question": "Eosinophilic esophagitis (EoE) là gì?",
+    "answer": "EoE là tình trạng viêm thực quản mãn tính do phản ứng miễn dịch với tác nhân như dị ứng thực phẩm, gây tích tụ tế bào eosin trong niêm mạc esophagus, dẫn đến triệu chứng khó nuốt và ứ thức ăn. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "question": "Nguyên nhân thường gặp gây pill‑induced esophagitis?",
+    "answer": "Pill‑induced esophagitis thường do viêm thực quản do thuốc như bisphosphonates (alendronate), kháng sinh (doxycycline), NSAIDs, aspirin, kali clorid, sắt… gây tổn thương niêm mạc thực quản. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "question": "Pill‑induced esophagitis có thể dẫn đến hậu quả gì?",
+    "answer": "Nếu kéo dài, pill‑induced esophagitis có thể gây loét thực quản, hẹp thực quản và thậm chí thủng — đặc biệt khi kết hợp với GERD. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "question": "EMR (Endoscopic Mucosal Resection) dùng để làm gì?",
+    "answer": "EMR là phương pháp loại bỏ polyp lớn hoặc bằng đầu phẳng trong đại tràng, bằng cách tiêm nâng và cắt bỏ bằng vòng snare— giúp giảm nhu cầu phẫu thuật mở và phục hồi nhanh hơn. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "question": "EMR có ưu điểm gì so với phẫu thuật?",
+    "answer": "So với phẫu thuật, EMR ít xâm lấn, chi phí thấp hơn, hồi phục nhanh, ít rủi ro và giữ được chức năng đường tiêu hóa tốt hơn. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "question": "Biến chứng có thể xảy ra khi dùng EMR để cắt polyp phức tạp?",
+    "answer": "Biến chứng của EMR và ESD có thể gồm chảy máu, thủng, đau sau thủ thuật, hội chứng sau polypectomy và tồn dư mô bệnh. Cần bác sĩ chuyên môn cao để xử lý. :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "question": "Có nguy hiểm không khi thực hiện nhuộm‑nâng‑polyp?",
+    "answer": "Kỹ thuật nhuộm‑nâng‑polyp được coi là tương đối an toàn. Tuy nhiên, nếu không được thực hiện đúng kỹ thuật, vẫn tồn tại nguy cơ chảy máu hoặc thủng ruột — đặc biệt khi polyp không nâng lên được."
+  },
+  {
+    "question": "Non‑lifting sign là gì?",
+    "answer": "Non‑lifting sign xuất hiện khi tiêm dịch dưới polyp mà khối không nâng lên — đây có thể là dấu hiệu cho thấy polyp đã xâm lấn sâu vào lớp dưới niêm mạc hoặc có xơ hóa, làm tăng khó khăn và nguy cơ khi thực hiện cắt bỏ EMR.:contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "question": "Non‑lifting sign cảnh báo điều gì?",
+    "answer": "Dấu hiệu này cảnh báo có thể là tổn thương ác tính đã xâm lấn vào lớp dưới niêm mạc hoặc có xơ hóa từ trước, khiến cắt bằng nội soi gặp khó khăn và có nguy cơ làm tổn thương ruột.:contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "question": "Viêm thực quản là gì?",
+    "answer": "Viêm thực quản là tình trạng viêm lớp niêm mạc thực quản, có thể gây ra cảm giác nóng rát, đau hoặc khó nuốt. Nguyên nhân thường gặp gồm trào ngược axit (GERD), thuốc, nhiễm trùng, dị ứng hoặc tia xạ.:contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "question": "Triệu chứng viêm thực quản thường gặp?",
+    "answer": "Các triệu chứng phổ biến gồm nóng rát cổ họng (heartburn), khó nuốt (dysphagia), đau ngực, buồn nôn, nôn, ho hoặc tiết nhiều dịch. Nếu không điều trị, có thể dẫn đến loét, sẹo, Barrett thực quản hoặc ung thư.:contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "question": "Viêm thực quản do thuốc (pill‑induced esophagitis) là gì?",
+    "answer": "Pill‑induced esophagitis là tình trạng viêm niêm mạc thực quản do thuốc gây kích ứng — thường xảy ra khi uống viên thuốc với ít nước hoặc nằm ngay sau khi uống. Tình trạng này có thể gây đau ngực, khó nuốt, loét, thậm chí chảy máu nếu nghiêm trọng.:contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "question": "Nguyên nhân chính gây pill‑induced esophagitis?",
+    "answer": "Một số thuốc dễ gây tình trạng này gồm bisphosphonates (ví dụ alendronate), kháng sinh (như doxycycline), NSAIDs, kali clorid, sắt, và một số loại vitamin hoặc thuốc dạng viên nang chậm tan.:contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "question": "Triệu chứng pill‑induced esophagitis thường gặp?",
+    "answer": "Triệu chứng bao gồm đau ngực sau xương ức, nóng rát, khó nuốt (odynophagia), thường xuất hiện vài giờ đến 10 ngày sau khi uống thuốc. Trong trường hợp nặng có thể xuất hiện loét và chảy máu thực quản.:contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "question": "Làm sao để phòng tránh pill‑induced esophagitis?",
+    "answer": "Bạn có thể phòng bằng cách uống thuốc với một cốc nước đầy (200–240 ml), không nằm hoặc ngả sau khi uống trong ít nhất 30 phút, cân nhắc dùng dạng lỏng hoặc viên nhỏ nếu có nguy cơ cao.:contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "question": "Viêm thực quản xói mòn (erosive esophagitis) là gì?",
+    "answer": "Đây là tình trạng niêm mạc thực quản bị tổn thương loét do acid trào ngược từ dạ dày (GERD), gây ra đau ngực, khó nuốt hoặc ho. Khoảng 1% dân số mắc, và khoảng 30% trong số người bị GERD.:contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "question": "Có nguy hiểm không khi thực hiện nhuộm‑nâng‑polyp?",
+    "answer": "Nhuộm‑nâng‑polyp nói chung an toàn, nhưng nếu polyp không nâng lên hoặc kỹ thuật không chính xác, vẫn có thể gây chảy máu hoặc thủng ruột."
+  },
+  {
+    "question": "Non‑lifting sign là gì?",
+    "answer": "Non‑lifting sign (không nâng lên khi tiêm) có thể cho thấy polyp đã xâm lấn sâu hoặc có xơ hóa, làm cắt bằng EMR khó khăn và có nguy cơ cao hơn.:contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "question": "Viêm thực quản là gì?",
+    "answer": "Tình trạng viêm lớp niêm mạc thực quản do nguyên nhân như trào ngược axit (GERD), thuốc, nhiễm khuẩn, dị ứng hoặc bức xạ."
+  },
+  {
+    "question": "Triệu chứng viêm thực quản thường gặp?",
+    "answer": "Bao gồm nóng rát cổ họng, đau ngực, khó nuốt, nôn, ho, và cảm giác vướng khi nuốt."
+  },
+  {
+    "question": "Pill‑induced esophagitis là gì?",
+    "answer": "Một dạng viêm thực quản do tác động trực tiếp của viên thuốc lên niêm mạc khi uống không đủ nước hoặc nằm ngay sau uống, gây kích ứng hoặc loét.:contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "question": "Làm sao phòng tránh pill‑induced esophagitis?",
+    "answer": "Uống thuốc với ít nhất một ly nước đầy (200–240 ml), không nằm ngay sau khi uống, ưu tiên viên nhỏ hoặc lỏng nếu có nguy cơ cao."
+  },
+  {
+    "question": "Eosinophilic esophagitis (EoE) là gì?",
+    "answer": "Dạng viêm thực quản mãn tính do phản ứng miễn dịch với dị ứng hoặc tác nhân thực phẩm, gây tích tụ tế bào eosin, biểu hiện khó nuốt và ứ thức ăn."
+  },
+  {
+    "question": "Viêm thực quản xói mòn (erosive esophagitis) là gì?",
+    "answer": "Loại viêm gây tổn thương loét niêm mạc thực quản do trào ngược, dẫn đến đau ngực, khó nuốt và có thể gây hẹp hay ung thư nếu không điều trị.:contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "question": "Polyp đại tràng là gì?",
+    "answer": "Những khối u nhỏ xuất hiện trên niêm mạc đại tràng hoặc trực tràng. Có thể lành tính hoặc có nguy cơ tiến triển thành ung thư nếu không được cắt bỏ.:contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "question": "Có bao nhiêu loại polyp đại tràng?",
+    "answer": "Bao gồm polyp tăng sản (hyperplastic), u tuyến (adenomatous), hamartomatous, và viêm/pseudopolyp.:contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "question": "Polyp nào có nguy cơ ung thư cao nhất?",
+    "answer": "Adenomatous, đặc biệt là dạng villous adenoma, có nguy cơ cao hơn so với tubular adenoma.:contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "question": "Polyp kích thước nào cần lo?",
+    "answer": "Polyp >10 mm có nguy cơ cao hơn—tỷ lệ ung thư tăng theo kích thước polyp.:contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "question": "Polyp không gây triệu chứng thường không cần xử lý không?",
+    "answer": "Không. Dù không gây triệu chứng, polyp vẫn nên được cắt bỏ vì nguy cơ biến chứng và ung thư.:contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "question": "Biểu hiện polyp đại tràng nghi ngờ?",
+    "answer": "Có thể có máu trong phân, thay đổi thói quen đại tiện, mệt mỏi do mất máu hoặc táo bón kéo dài nếu polyp to gây tắc."
+  },
+  {
+    "question": "Polyp có thể tự mất không?",
+    "answer": "Hiếm khi tự mất. Nếu không xử lý, polyp thường tồn tại và có thể phát triển lớn hơn."
+  },
+  {
+    "question": "Polypectomy là gì?",
+    "answer": "Quy trình cắt bỏ polyp qua nội soi—thường thực hiện khi phát hiện polyp trong đại tràng."
+  },
+  {
+    "question": "EMR và ESD khác nhau ra sao?",
+    "answer": "EMR cắt chom bằng phương pháp tiêm nâng và dùng vòng snare; ESD cắt sâu hơn và chính xác hơn, dùng dao để tách từng lớp mô.:contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "question": "Biến chứng khi cắt polyp bằng EMR/ESD?",
+    "answer": "Có thể bao gồm chảy máu, thủng ruột, đau hậu thủ thuật, và tái phát nếu cắt không sạch.:contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "question": "Pseudopolyps là gì?",
+    "answer": "Được hình thành do quá trình viêm và lành tự nhiên tại đại tràng—không phải polyp thật, không tiến triển thành ung thư.:contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "question": "Pseudopolyps có nguy hiểm không?",
+    "answer": "Chính nó không nguy hiểm, nhưng là dấu hiệu cho thấy có viêm mãn tính và có thể cần nội soi thường xuyên hơn.:contentReference[oaicite:11]{index=11}"
+  },
+  {
+    "question": "Ulcerative colitis (viêm loét đại tràng) là gì?",
+    "answer": "Là bệnh viêm ruột mạn tính, chỉ ảnh hưởng niêm mạc đại tràng và trực tràng—gây loét, chảy máu, tiêu chảy, đau bụng, có thể di chuyển liên tục từ trực tràng lên trên.:contentReference[oaicite:12]{index=12}"
+  },
+  {
+    "question": "Ai dễ bị viêm loét đại tràng?",
+    "answer": "Bệnh thường khởi phát từ tuổi teen đến 30, nam nữ tỷ lệ tương đương, phổ biến hơn ở vùng đô thị và người có yếu tố gia đình hoặc di truyền.:contentReference[oaicite:13]{index=13}"
+  },
+  {
+    "question": "Viêm loét đại tràng có chữa khỏi được không?",
+    "answer": "Hiện chưa có cách chữa khỏi hoàn toàn. Mục tiêu điều trị là kiểm soát triệu chứng và phòng tái phát.:contentReference[oaicite:14]{index=14}"
+  },
+  {
+    "question": "Nguyên nhân chính gây viêm loét đại tràng là gì?",
+    "answer": "Chưa rõ nguyên nhân chính xác; có thể do rối loạn miễn dịch, di truyền và môi trường.:contentReference[oaicite:15]{index=15}"
+  },
+  {
+    "question": "Biến chứng có thể gặp Viêm loét đại tràng?",
+    "answer": "Bao gồm chảy máu nặng, thủng, toxic megacolon, hẹp đại tràng, tăng nguy cơ ung thư đại trực tràng.:contentReference[oaicite:16]{index=16}"
+  },
+  {
+    "question": "Tầm soát ung thư đại trực tràng khi bị UC nên bắt đầu khi nào?",
+    "answer": "Khuyến cáo soi đại tràng đầu tiên sau 8–10 năm kể từ khi bệnh lan rộng ≥⅓ đại tràng.:contentReference[oaicite:17]{index=17}"
+  },
+  {
+    "question": "EMR hay ESD có thể dùng trong UC?",
+    "answer": "Có thể, nếu tổn thương dysplasia có giới hạn rõ và đủ điều kiện cắt endoscopic—EMR/ESD là lựa chọn thay cho phẫu thuật.:contentReference[oaicite:18]{index=18}"
+  },
+  {
+    "question": "Tại sao UC làm tăng nguy cơ ung thư đại tràng?",
+    "answer": "Viêm mãn tính gây tổn thương ADN và tăng nguy cơ dysplasia, sau đó là ung thư (theo chu trình viêm–dysplasia–carcinoma).:contentReference[oaicite:19]{index=19}"
+  },
+  {
+    "question": "Nguy cơ ung thư UC thay đổi thế nào theo thời gian?",
+    "answer": "Tăng theo thời gian bệnh tồn tại và mức độ viêm. Theo dõi định kỳ là cần thiết.:contentReference[oaicite:20]{index=20}"
+  },
+  {
+    "question": "Chống chỉ định nội soi UC nặng khi nào?",
+    "answer": "Tránh soi toàn đại tràng nếu bệnh đang ở giai đoạn hoạt động nặng, vì nguy cơ thủng tăng cao.:contentReference[oaicite:21]{index=21}"
+  },
+  {
+    "question": "Polyp thanh xuân (juvenile polyps) là gì?",
+    "answer": "Một loại hamartomatous polyp xuất hiện ở trẻ em, thường gây chảy máu, có thể đơn lẻ hoặc nhiều (juvenile polyposis syndrome).:contentReference[oaicite:22]{index=22}"
+  },
+  {
+    "question": "Hội chứng FAP là gì?",
+    "answer": "Hội chứng u polyp tuyến gia đình, gây hàng trăm đến ngàn polyp, nguy cơ ung thư gần như 100% nếu không điều trị triệt để.:contentReference[oaicite:23]{index=23}"
+  },
+  {
+    "question": "Hội chứng Lynch liên quan gì đến polyp?",
+    "answer": "Là hội chứng di truyền khiến tăng nguy cơ đa polyp và ung thư đại trực tràng, không giống FAP, thường phát hiện ở tuổi trẻ."
+  },
+  {
+    "question": "Tầm soát polyp nên bắt đầu ở độ tuổi nào?",
+    "answer": "Khuyến cáo bắt đầu từ 45 tuổi cho người có nguy cơ trung bình; trẻ hơn nếu tiền sử gia đình hoặc hội chứng di truyền.:contentReference[oaicite:24]{index=24}"
+  },
+  {
+    "question": "Ngoài nội soi, tầm soát polyp bằng gì được?",
+    "answer": "Có thể dùng xét nghiệm máu ẩn trong phân, nội soi ảo (CT colonography) hoặc nghiên cứu phân tử, tùy nguy cơ."
+  },
+  {
+    "question": "Nội soi ảo (virtual colonoscopy) là gì?",
+    "answer": "Là phương pháp dùng CT để chụp đại tràng, ít xâm lấn, dùng khi nội soi tiêu chuẩn không thực hiện được."
+  },
+  {
+    "question": "Sau khi cắt polyp, nên nội soi lại khi nào?",
+    "answer": "Theo guideline Mỹ: sau 7–10 năm nếu <2 polyp nhỏ; 3–5 năm nếu 3–4 polyp nhỏ; 1–3 năm nếu polyp lớn/adverse histology.:contentReference[oaicite:25]{index=25}"
+  },
+  {
+    "question": "Polyp dạng serrated sessile là gì?",
+    "answer": "Loại polyp có hình thái răng cưa phẳng, khó phát hiện và có tiềm năng ác tính cao hơn hyperplastic polyp.:contentReference[oaicite:26]{index=26}"
+  },
+  {
+    "question": "Hyperplastic polyp nguy hiểm không?",
+    "answer": "Thường lành tính, nguy cơ ung thư rất thấp, thường không cần xử lý nếu nhỏ."
+  },
+  {
+    "question": "Tầm soát nên làm sạch ruột thế nào?",
+    "answer": "Uống thuốc thụt hoặc đại tiện sạch trước nội soi để đảm bảo bề mặt niêm mạc sạch sẽ, giúp phát hiện tổn thương hiệu quả."
+  },
+  {
+    "question": "Điều trị viêm thực quản như thế nào?",
+    "answer": "Dùng thuốc kháng acid, PPI, thay đổi chế độ ăn, tránh rượu bia và theo dõi nội soi định kỳ."
+  },
+  {
+    "question": "Làm sao điều trị polyp đại tràng?",
+    "answer": "Cắt bỏ bằng nội soi (polypectomy), theo dõi tái phát định kỳ và điều chỉnh chế độ ăn uống."
+  },
+  {
+    "question": "Điều trị viêm loét đại tràng gồm những gì?",
+    "answer": "Sử dụng thuốc chống viêm (mesalamine), corticosteroid, thuốc sinh học hoặc phẫu thuật nếu cần."
+  },
+  {
+    "question": "Điều trị hội chứng Lynch như thế nào?",
+    "answer": "Theo dõi sàng lọc ung thư thường xuyên, nội soi định kỳ và xét nghiệm gen. Một số trường hợp cần phẫu thuật dự phòng."
+  },
+  {
+    "question": "Điều trị EoE (viêm thực quản tăng bạch cầu ái toan)?",
+    "answer": "Loại bỏ thực phẩm gây dị ứng, dùng steroid tại chỗ, và theo dõi nội soi định kỳ."
+  },
+  {
+    "question": "Làm sao điều trị polyp dạng “mủn” (sessile serrated)?",
+    "answer": "Polyp sessile serrated cần được cắt bỏ bằng kỹ thuật nội soi EMR hoặc ESD và theo dõi kỹ do nguy cơ ung thư hóa."
+  },
+  {
+    "question": "Điều trị polyp tăng sản (hyperplastic) có cần thiết không?",
+    "answer": "Polyp tăng sản nhỏ thường lành tính, có thể không cần cắt bỏ nếu dưới 5mm và không ở đoạn đại tràng phải."
+  },
+  {
+    "question": "Điều trị polyp viêm (inflammatory pseudopolyp) thế nào?",
+    "answer": "Chủ yếu điều trị bệnh nền (viêm loét đại tràng), polyp viêm thường không cần can thiệp nếu không gây triệu chứng."
+  },
+  {
+    "question": "Điều trị polyp juvenile ở trẻ em?",
+    "answer": "Cần cắt qua nội soi nếu có nguy cơ xuất huyết hoặc tắc ruột. Theo dõi nếu phát hiện sớm."
+  },
+  {
+    "question": "Điều trị polyp adenomatous?",
+    "answer": "Cần cắt triệt để bằng nội soi. Đây là loại có khả năng tiến triển thành ung thư nên cần theo dõi sát."
+  },
+  {
+    "question": "Điều trị viêm thực quản do thuốc?",
+    "answer": "Ngừng thuốc gây kích ứng, uống thuốc với nhiều nước, không nằm sau khi uống và dùng thuốc bảo vệ niêm mạc."
+  },
+  {
+    "question": "Điều trị viêm thực quản do nấm?",
+    "answer": "Sử dụng thuốc kháng nấm như fluconazole đường uống hoặc tĩnh mạch tùy mức độ nặng nhẹ."
+  },
+  {
+    "question": "Điều trị viêm thực quản do trào ngược (GERD)?",
+    "answer": "Thay đổi lối sống (giảm cân, tránh thức ăn kích thích), dùng PPI, H2 blocker và theo dõi nội soi."
+  },
+  {
+    "question": "Điều trị viêm thực quản xói mòn?",
+    "answer": "Dùng PPI liều cao, ăn uống kiêng khem và tái khám sau 8 tuần nội soi để đánh giá phục hồi."
+  },
+  {
+    "question": "Điều trị hẹp thực quản do viêm kéo dài?",
+    "answer": "Nong thực quản qua nội soi, dùng steroid tại chỗ và theo dõi sát nguy cơ tái hẹp."
+  },
+  {
+    "question": "Có cần điều trị đường Z bất thường không?",
+    "answer": "Đa số trường hợp không cần điều trị, chỉ theo dõi. Nếu có dị sản ruột (Barrett), cần điều trị PPI và theo dõi nội soi định kỳ."
+  },
+  {
+    "question": "Điều trị Barrett thực quản như thế nào?",
+    "answer": "Dùng PPI lâu dài, nội soi tầm soát loạn sản và có thể cần ablation (cắt bỏ bằng sóng cao tần) nếu có nguy cơ cao."
+  },
+  {
+    "question": "Điều trị hội chứng FAP (polyp đại tràng di truyền)?",
+    "answer": "Cần nội soi định kỳ sớm từ tuổi thiếu niên và thường chỉ định phẫu thuật cắt toàn bộ đại tràng dự phòng ung thư."
+  },
+  {
+    "question": "Điều trị hội chứng Lynch?",
+    "answer": "Theo dõi sát bằng nội soi từ 20-25 tuổi, xét nghiệm di truyền và có thể cân nhắc cắt đại tràng dự phòng."
+  },
+  {
+    "question": "Điều trị SPS (Serrated Polyposis Syndrome)?",
+    "answer": "Nội soi cắt tất cả polyp >5mm, theo dõi mỗi 1-3 năm tùy số lượng và kích thước polyp."
+  },
+  {
+    "question": "Điều trị polyp dạng hỗn hợp có cấu trúc không rõ ràng?",
+    "answer": "Cần hội chẩn và thường chỉ định cắt toàn bộ qua EMR/ESD, sau đó làm giải phẫu bệnh để xác định hướng theo dõi."
+  },
+  {
+    "question": "Sau cắt polyp có cần dùng thuốc gì không?",
+    "answer": "Thông thường không cần dùng thuốc đặc hiệu, chỉ dùng kháng sinh hoặc thuốc chống co thắt nếu có chỉ định."
+  },
+  {
+    "question": "Điều trị thiếu máu do polyp gây chảy máu?",
+    "answer": "Cần truyền máu nếu thiếu máu nặng, nội soi cắt polyp và dùng thuốc sắt sau đó."
+  },
+  {
+    "question": "Điều trị polyp gây tiêu chảy kéo dài?",
+    "answer": "Cắt bỏ polyp, đánh giá nguyên nhân kèm theo và điều trị triệu chứng bằng thuốc chống tiêu chảy nếu cần."
+  },
+  {
+    "question": "Polyp gây tắc ruột điều trị thế nào?",
+    "answer": "Phẫu thuật cấp cứu để giải phóng tắc và cắt bỏ đoạn ruột chứa polyp nếu không thể nội soi."
+  },
+  {
+    "question": "Điều trị polyp gây đau bụng mãn tính?",
+    "answer": "Nội soi cắt bỏ và theo dõi lâm sàng. Đánh giá các nguyên nhân đau bụng khác nếu triệu chứng kéo dài."
+  },
+  {
+    "question": "Điều trị polyp tái phát nhiều lần?",
+    "answer": "Theo dõi chặt chẽ, cân nhắc phẫu thuật nếu không kiểm soát được qua nội soi định kỳ."
+  },
+  {
+    "question": "Điều trị polyp không cắt được do nguy cơ cao?",
+    "answer": "Hội chẩn đa chuyên khoa, theo dõi sát hoặc chỉ định phẫu thuật nếu cần thiết."
+  },
+  {
+    "question": "Điều trị viêm loét đại tràng kháng thuốc?",
+    "answer": "Dùng thuốc sinh học như infliximab, adalimumab hoặc phẫu thuật cắt đại tràng nếu không đáp ứng."
+  },
+  {
+    "question": "Có nên điều trị polyp bằng thuốc không?",
+    "answer": "Không, hiện tại chưa có thuốc nào được chứng minh làm biến mất polyp. Điều trị chủ yếu là cắt bỏ."
+  },
+  {
+    "question": "Polyp đại tràng là gì?",
+    "answer": "Polyp đại tràng là những khối u nhỏ phát triển trên niêm mạc đại tràng, thường lành tính nhưng có thể tiến triển thành ung thư."
+  },
+  {
+    "question": "Polyp ở ruột già có nguy hiểm không?",
+    "answer": "Polyp đại tràng là những khối u nhỏ phát triển trên niêm mạc đại tràng, thường lành tính nhưng có thể tiến triển thành ung thư."
+  },
+  {
+    "question": "Polyp trong đại tràng có phải là ung thư không?",
+    "answer": "Polyp đại tràng là những khối u nhỏ phát triển trên niêm mạc đại tràng, thường lành tính nhưng có thể tiến triển thành ung thư."
+  },
+  {
+    "question": "Polyp đại tràng có cần phải cắt bỏ không?",
+    "answer": "Polyp đại tràng là những khối u nhỏ phát triển trên niêm mạc đại tràng, thường lành tính nhưng có thể tiến triển thành ung thư."
+  },
+  {
+    "question": "Triệu chứng của viêm loét đại tràng?",
+    "answer": "Triệu chứng thường gặp gồm đau bụng, tiêu chảy, có máu trong phân, mệt mỏi và giảm cân."
+  },
+  {
+    "question": "Viêm loét đại tràng biểu hiện như thế nào?",
+    "answer": "Triệu chứng thường gặp gồm đau bụng, tiêu chảy, có máu trong phân, mệt mỏi và giảm cân."
+  },
+  {
+    "question": "Dấu hiệu nhận biết viêm loét đại tràng?",
+    "answer": "Triệu chứng thường gặp gồm đau bụng, tiêu chảy, có máu trong phân, mệt mỏi và giảm cân."
+  },
+  {
+    "question": "Viêm loét đại tràng có triệu chứng gì?",
+    "answer": "Triệu chứng thường gặp gồm đau bụng, tiêu chảy, có máu trong phân, mệt mỏi và giảm cân."
+  },
+  {
+    "question": "Viêm thực quản có nguy hiểm không?",
+    "answer": "Viêm thực quản có thể gây đau, khó nuốt và nếu không điều trị có thể dẫn đến biến chứng như loét hoặc hẹp thực quản."
+  },
+  {
+    "question": "Biến chứng của viêm thực quản là gì?",
+    "answer": "Viêm thực quản có thể gây đau, khó nuốt và nếu không điều trị có thể dẫn đến biến chứng như loét hoặc hẹp thực quản."
+  },
+  {
+    "question": "Viêm thực quản không điều trị sẽ ra sao?",
+    "answer": "Viêm thực quản có thể gây đau, khó nuốt và nếu không điều trị có thể dẫn đến biến chứng như loét hoặc hẹp thực quản."
+  },
+  {
+    "question": "Bạn là ai?",
+    "answer": "Tôi là chatbot của HealthCare Plus chuyên gia hỗ trợ trả lời các câu hỏi về bệnh đường ruột phát hiện qua nội soi, bao gồm polyp, viêm, loét và các vấn đề liên quan đến đại tràng, trực tràng, dạ dày."
+  },
+  {
+    "question": "Bạn có thể giúp gì cho tôi?",
+    "answer": "Tôi có thể cung cấp thông tin về triệu chứng, phòng ngừa, điều trị và các kỹ thuật nội soi liên quan đến polyp đại tràng, viêm thực quản và viêm loét đại tràng."
+  },
+  {
+    "question": "Bạn biết những gì?",
+    "answer": "Tôi biết các kiến thức về bệnh lý tiêu hóa như polyp đại tràng, viêm thực quản, viêm loét đại tràng, các kỹ thuật nội soi, phòng ngừa và điều trị."
+  },
+  {
+    "question": "Tôi nên hỏi bạn về chủ đề gì?",
+    "answer": "Bạn có thể hỏi tôi về triệu chứng, nguyên nhân, cách phòng ngừa, điều trị, biến chứng của các bệnh tiêu hóa hoặc các kỹ thuật nội soi."
+  },
+  {
+    "question": "Nếu tôi bị đau bụng kéo dài thì nên làm gì?",
+    "answer": "Bạn nên đi khám bác sĩ chuyên khoa tiêu hóa để được chẩn đoán chính xác và điều trị kịp thời."
+  },
+  {
+    "question": "Nếu tôi có polyp đại tràng thì có nguy hiểm không?",
+    "answer": "Polyp đại tràng có thể lành tính nhưng một số loại có nguy cơ tiến triển thành ung thư, nên cần theo dõi và cắt bỏ nếu cần thiết."
+  },
+  {
+    "question": "Bạn có thể trả lời về các bệnh khác ngoài tiêu hóa không?",
+    "answer": "Hiện tại tôi chỉ hỗ trợ các câu hỏi liên quan đến tiêu hóa như polyp đại tràng, viêm thực quản, viêm loét đại tràng."
+  },
+  {
+    "question": "Tôi muốn biết về nội soi đại tràng, bạn có thể giúp không?",
+    "answer": "Tôi có thể cung cấp thông tin về quy trình nội soi đại tràng, các kỹ thuật như EMR, ESD và các lưu ý trước và sau khi nội soi."
+  },
+  {
+    "question": "Bạn có thể tư vấn cách phòng ngừa viêm thực quản không?",
+    "answer": "Tôi có thể tư vấn về chế độ ăn uống, lối sống và các biện pháp phòng ngừa viêm thực quản."
+  },
+  {
+    "question": "Nếu tôi có câu hỏi ngoài danh sách thì bạn trả lời thế nào?",
+    "answer": "Tôi sẽ cố gắng trả lời dựa trên kiến thức đã được huấn luyện, nếu ngoài phạm vi tôi sẽ thông báo cho bạn."
+  }
+]
